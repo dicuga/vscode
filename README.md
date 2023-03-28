@@ -18,10 +18,10 @@ npm install --global yarn
 ## Configuraciones
 * Desactivar Compact Folders:
 
-    > En settings, `Ctrl+,` => buscar Compact y "desmarcarlo"
+    > En settings, `Ctrl + ,` => buscar Compact y "desmarcarlo"
 
 * Bracket-pair-colorizer
-    > En settings, "Ctrl+," => buscar Compact y "bracketpair" y marcarlo.
+    > En settings, "Ctrl + ," => buscar Compact y "bracketpair" y marcarlo.
     >
     > Después, puedes dejar la configuración por defecto o poner la siguiente:
 ```
@@ -34,6 +34,16 @@ npm install --global yarn
     "#0098FA"
 ],
 ```
+* Tamaño Tab por lenguaje
+```
+1. Ctrl + Shift + p => Buscar: "Preferences: Configure Language Specific Settings"
+2. Elegir el lenguaje: TypeScript, Python, ...
+    - Para Python => "editor.tabSize": 2
+    - Para HTML, TypeScript y JavaScript => "editor.tabSize": 2
+```
+
+    > Ctrl + Shift + p => Buscar
+
 
 ## Extensiones comunes
 * [Iconos](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
