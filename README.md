@@ -14,15 +14,16 @@ git config --global user.email "Tu correo"
 ``` 
 npm install --global yarn
 ```
-## Extensiones comunes
 
-* [Iconos](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-* [One Dark theme (2023 OK)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-* [Monokai night theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
-* [Tokyo Night theme](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
-* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+## Configuraciones
+* Desactivar Compact Folders:
+```
+En settings, "Ctrl+," => buscar Compact y "desmarcarlo"
+```
+* Bracket-pair-colorizer
 
-Archivos / Preferencias / Configuración => Buscar bracketpair
+_En settings, "Ctrl+," => buscar Compact y "bracketpair" y marcarlo.
+_Después, puedes dejar la configuración por defecto o poner la siguiente:
 ```
 "bracket-pair-colorizer-2.colors": [
     "#fafafa",
@@ -33,6 +34,17 @@ Archivos / Preferencias / Configuración => Buscar bracketpair
     "#0098FA"
 ],
 ```
+
+## Extensiones comunes
+* [Iconos](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [One Dark theme (2023 OK)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+* [Monokai night theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
+* [Tokyo Night theme](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+* [Fuente FireCode](https://github.com/tonsky/FiraCode)
+
+
+
 * [DotEnv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
@@ -45,5 +57,7 @@ Archivos / Preferencias / Configuración => Buscar bracketpair
 * [TypeScript importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
 * [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules)
 
+## Extensiones Python
+* [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 
