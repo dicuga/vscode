@@ -38,7 +38,9 @@ npm install --global yarn
 ```
 1. Ctrl + Shift + p => Buscar: "Preferences: Configure Language Specific Settings"
 2. Elegir el lenguaje: TypeScript, Python, ...
-    - Para Python => "editor.tabSize": 2
+   En el buscador, cuando tengas selecionado el lenguaje, puedes añadir "tabsize" para ayudar a buscar (p.e.: @lang:python tabsize)
+   
+    - Para Python => "editor.tabSize": 4
     - Para HTML, TypeScript y JavaScript => "editor.tabSize": 2
 ```
 
