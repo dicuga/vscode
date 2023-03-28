@@ -3,13 +3,17 @@
 ## Instalaciones comunes
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Postman](https://www.postman.com/downloads/)
+* [Node](https://nodejs.org/es/)
 * (Opcional) [Mongo Compass](https://www.mongodb.com/try/download/compass)
 * [Git](https://git-scm.com/)
 ```
 git config --global user.name "Tu nombre"
 git config --global user.email "Tu correo"
 ```
-
+* [(Opcional) Yarn](https://yarnpkg.com/)
+``` 
+npm install --global yarn
+```
 ## Extensiones comunes
 
 * [Iconos](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -29,9 +33,17 @@ Archivos / Preferencias / Configuración => Buscar bracketpair
     "#0098FA"
 ],
 ```
+* [DotEnv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
-* [Node](https://nodejs.org/es/)
+## Extensiones React/Next
+* [NextJs Snippets](https://marketplace.visualstudio.com/items?itemName=willstakayama.vscode-nextjs-snippets)
+* [ES7 React/Redux](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+* [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+* [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+* [TypeScript importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
+* [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules)
 
-``` opcional - Yarn
-npm install --global yarn
-```
+
+
