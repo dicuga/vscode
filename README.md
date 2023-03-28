@@ -21,7 +21,7 @@ npm install --global yarn
     > En settings, `Ctrl + ,` => buscar Compact y "desmarcarlo"
 
 * Bracket-pair-colorizer
-    > En settings, "Ctrl + ," => buscar Compact y "bracketpair" y marcarlo.
+    > En settings, `Ctrl + ,` => buscar Compact y "bracketpair" y marcarlo.
     >
     > Después, puedes dejar la configuración por defecto o poner la siguiente:
 ```
@@ -43,8 +43,6 @@ npm install --global yarn
     - Para Python => "editor.tabSize": 4
     - Para HTML, TypeScript y JavaScript => "editor.tabSize": 2
 ```
-
-    > Ctrl + Shift + p => Buscar
 
 
 ## Extensiones comunes
