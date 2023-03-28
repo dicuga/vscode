@@ -17,13 +17,13 @@ npm install --global yarn
 
 ## Configuraciones
 * Desactivar Compact Folders:
-```
-En settings, "Ctrl+," => buscar Compact y "desmarcarlo"
-```
-* Bracket-pair-colorizer
 
-_En settings, "Ctrl+," => buscar Compact y "bracketpair" y marcarlo.
-_Después, puedes dejar la configuración por defecto o poner la siguiente:
+    > En settings, `Ctrl+,` => buscar Compact y "desmarcarlo"
+
+* Bracket-pair-colorizer
+    > En settings, "Ctrl+," => buscar Compact y "bracketpair" y marcarlo.
+    >
+    > Después, puedes dejar la configuración por defecto o poner la siguiente:
 ```
 "bracket-pair-colorizer-2.colors": [
     "#fafafa",
@@ -37,14 +37,11 @@ _Después, puedes dejar la configuración por defecto o poner la siguiente:
 
 ## Extensiones comunes
 * [Iconos](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-* [One Dark theme (2023 OK)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+* [One Dark theme **Tema 2023**](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 * [Monokai night theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 * [Tokyo Night theme](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 * [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Fuente FireCode](https://github.com/tonsky/FiraCode)
-
-
-
 * [DotEnv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
