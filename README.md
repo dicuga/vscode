@@ -59,6 +59,7 @@ npm install --global yarn
 * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 * [TypeScript importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
 * [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules)
+* [Prisma.io](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma)
 
 ## Extensiones Python
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
