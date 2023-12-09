@@ -64,4 +64,10 @@ npm install --global yarn
 ## Extensiones Python
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
+* Activar el tipado básico de Python en VSCode
+  ```
+  1. Ctrl + , para entrar en Settings
+  2. Buscar "type checking mode"
+  3. Activarlo en básico. El strict sería el siguiente paso para que muestre el error si no se ponen tipos.
+  ```
 
